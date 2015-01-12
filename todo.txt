@@ -1,0 +1,3 @@
+Reponsive jumbotron image
+fix Descartes quote section when viewing at less than 1200px wide
+Getting nav search bar to pull right
