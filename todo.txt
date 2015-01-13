@@ -1,3 +1,4 @@
-Reponsive jumbotron image
+--Reponsive jumbotron image
+    Fix white border issues with jumbotron image class thumbnail
 fix Descartes quote section when viewing at less than 1200px wide
 Getting nav search bar to pull right
