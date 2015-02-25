@@ -16,8 +16,17 @@ body {
 }
 
 .jumbotron {
-	margin-top: 50px;
+	/*margin-top: 50px;*/
+/*	height: 1000px;
 	background-color: #BF3030;
+	background-image: url(http://fc04.deviantart.net/fs71/i/2009/346/a/8/Pennybacker_Bridge_by_datura09.jpg);
+	background-size: cover;*/
+	height: 583px;
+	background: url("http://fc04.deviantart.net/fs71/i/2009/346/a/8/Pennybacker_Bridge_by_datura09.jpg") top center no-repeat;
+}
+
+.jumbotron-picture {
+	width: 100%
 }
 
 .test {
